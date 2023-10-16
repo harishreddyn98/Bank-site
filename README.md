@@ -1,5 +1,5 @@
 # Bank-site
-https://g7ypp46gz82cxu7jftwtyw.on.drv.tw/www.Bank site/
+https://g7ypp46gz82cxu7jftwtyw.on.drv.tw/www.Banksite/
 
 * The website is a fictional online banking platform named
 "Bankist."
